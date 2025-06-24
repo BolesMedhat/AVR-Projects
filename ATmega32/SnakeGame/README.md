@@ -82,8 +82,7 @@ MIT License - Free for educational and personal use
 
 **Poles Medhat** – Embedded Systems Developer
 **Contact**:  
-[LinkedIn](https://www.linkedin.com/in/boles-medhat) | 
-[Email](polesmedhat11@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/boles-medhat)
 
 ---
 

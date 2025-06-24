@@ -78,8 +78,9 @@ MIT License - Free for educational and personal use
 
 ---
 
-**Developer**: Boles Medhat  
-**Contact**:  
-[LinkedIn](https://www.linkedin.com/in/boles-medhat) | 
-[GitHub](https://github.com/BolesMedhat)
+## 👨‍💻 Author
+
+**Poles Medhat** – Embedded Systems Developer
+
+---
 

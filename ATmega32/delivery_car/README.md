@@ -50,20 +50,20 @@ A smart remote-controlled delivery car system featuring autonomous return functi
    - Password is stored in EEPROM for future use
 
 ### **2. Mobile App Commands**  
-| Command | Action |  
-|---------|--------|  
-| `1` | Move Forward |  
-| `2` | Move Backward |  
-| `3` | Stop |  
-| `4` | Steer Right |  
-| `5` | Steer Left |  
-| `6` | Gear Up |  
-| `7` | Gear Down |  
-| `8` | Clear LCD |  
-| `9` | Send LCD Message |  
-| `;` | Reverse Path Replay |  
-| `o` | Buzzer ON |  
-| `f` | Buzzer OFF |
+  | Command | Action |  
+  |---------|--------|  
+  | `1` | Move Forward |  
+  | `2` | Move Backward |  
+  | `3` | Stop |  
+  | `4` | Steer Right |  
+  | `5` | Steer Left |  
+  | `6` | Gear Up |  
+  | `7` | Gear Down |  
+  | `8` | Clear LCD |  
+  | `9` | Send LCD Message |  
+  | `;` | Reverse Path Replay |  
+  | `o` | Buzzer ON |  
+  | `f` | Buzzer OFF |
 
 ### **3. Password Operations**  
    - **Press any key** (except '*') to enter password and open package box

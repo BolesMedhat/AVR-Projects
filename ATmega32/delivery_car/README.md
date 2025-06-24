@@ -97,8 +97,7 @@ This project is open-source and available under the MIT License.
 
 **Poles Medhat** – Embedded Systems Developer
 **Contact**:  
-[LinkedIn](https://www.linkedin.com/in/boles-medhat) | 
-[GitHub](https://github.com/BolesMedhat)
+[LinkedIn](https://www.linkedin.com/in/boles-medhat) 
 
 ---
 
